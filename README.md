@@ -12,5 +12,5 @@ This project is a Student Management System implemented in Python with a SQL dat
 
 ## Screenshots
 ![Screenshot](./screen.png)
-![Student](images/student.jpg)
+
 
