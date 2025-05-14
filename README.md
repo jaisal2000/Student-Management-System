@@ -10,3 +10,7 @@ This project is a Student Management System implemented in Python with a SQL dat
 - **Search and Filter**: Easily search for students or courses and filter data based on different criteria.
 - **Database Integration**: Utilizes SQL database backend for storing and managing student and course information.
 
+## Screenshots
+![Screenshot](./screen.png)
+
+
